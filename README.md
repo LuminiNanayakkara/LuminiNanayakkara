@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Lumini Nanayakkara</h1>
 
 <p align="center" ><img 
- src="https://64.media.tumblr.com/c47fcf68e5fd6d6558d0c1d98a564724/tumblr_n13zd2Y3451rckw67o1_400.gif" width="40%"/></p>
+ src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPranali-5&psig=AOvVaw21XDYHQTbA0EVOVU2TkXBw&ust=1649154367604000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi09LKZ-vYCFQAAAAAdAAAAABAa" width="40%"/></p>
  <!--https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif--->
  <!--https://64.media.tumblr.com/c47fcf68e5fd6d6558d0c1d98a564724/tumblr_n13zd2Y3451rckw67o1_400.gifv-->
  <!--https://cdn.lowgif.com/medium/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif-->
